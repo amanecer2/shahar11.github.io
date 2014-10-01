@@ -16,9 +16,6 @@ Programming languages:
 - javascript
 - java
 
-private links:
--------
-- [link1](www.google.com)
 
 
 
@@ -27,6 +24,8 @@ todo:
 - upload the recent android project to github
 
 
-
-[edit](https://github.com/shahar11/shahar11.github.com/edit/master/README.md)
-[css](https://github.com/shahar11/shahar11.github.com/generated_pages/new)
+private links:
+-------
+- [md](http://gitbookio.gitbooks.io/markdown/)
+- [edit](https://github.com/shahar11/shahar11.github.com/edit/master/README.md)
+- [css](https://github.com/shahar11/shahar11.github.com/generated_pages/new)
